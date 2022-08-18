@@ -9,6 +9,6 @@ public class TestController {
     @GetMapping("/ec2")
     public String ec2Test(){
 
-        return "ec2";
+        return "ec2-hook";
     }
 }
