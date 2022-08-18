@@ -9,6 +9,6 @@ public class TestController {
     @GetMapping("/ec2")
     public String ec2Test(){
 
-        return "git-hook";
+        return "git-hook-test";
     }
 }
